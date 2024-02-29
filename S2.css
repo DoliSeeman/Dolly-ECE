@@ -1,0 +1,46 @@
+div,
+      img{
+          position: absolute;
+          
+      }
+      #book1 {
+          top:50px;
+          left: 50px;
+      }
+      #book2 {
+          top:150px;
+          left: 150px;
+      }
+      #book3 {
+          top:250px;
+          left: 250px;
+      }
+      #book4 {
+          top:350px;
+          left: 350px;
+      }
+      h1{
+        font-size: 40px;
+    }
+    h2{
+        font-size: 35px;
+    }
+    h3{
+        font-size: 30px;
+        color: rgb(144, 2, 0);
+    }
+    h4{
+        font-size: 26px;
+        color: rgb(144, 2, 0);
+    }
+    p{
+        font-size: 22px;
+    }
+    a{
+        font-size: 20px;
+        color: blue;
+    }
+    
+          button{
+            cursor: pointer;
+         }
